@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "nome": "Thiago",
+      "email": "thiago@email.com",
+      "password": "senhaindecifrável"
+    },
+    {
+      "name": "Thiago",
+      "email": "thiago@email.com",
+      "password": "senhaindecifravel",
+      "id": 2
+    },
+    {
+      "email": "adriano@email.com",
+      "password": "$2a$10$MLcZ0396xkGXL4mPFA.p2eVXHlmWJYjgmobChnUYJbEm7YcAPGy9m",
+      "name": "Adriano",
+      "id": 3
+    }
+  ]
+}
